@@ -1,4 +1,4 @@
-**📰 Fake News Detection System**
+# 📰 Fake News Detection System
 
 Fake News Detection System is a machine learning-based web application that uses Natural Language Processing (NLP) techniques to automatically classify news content as Fake or Real.
 
@@ -8,7 +8,7 @@ This system empowers users—such as journalists, researchers, educators, and th
 
 The application features a user-friendly web interface where users can paste any news content and receive an instant prediction. It is built using Python and Flask for the backend, with Scikit-learn for training and evaluating the machine learning model. Text pre-processing and feature extraction are handled using TF-IDF (Term Frequency–Inverse Document Frequency), which converts raw news text into numerical form suitable for machine learning models.
 
-**🚀 Features**
+# 🚀 Features
 
 Predict whether a news article is Fake or Real based on its content.
 
@@ -36,7 +36,7 @@ HTML
 
 Jupyter Notebook 
 
-✨ Key Capabilities:
+# ✨ Key Capabilities:
 Automatically detects fake news based on the input article or headline.
 
 Uses a pre-trained Decision Tree Classifier with TF-IDF vectorization.
